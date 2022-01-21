@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Creatures of Ki (Continued)</name>
+  <packageId>Mlie.CreaturesOfKi</packageId>
+  <author>Shooki</author>
+  <url>https://github.com/emipa606/CreaturesOfKi</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+      <downloadUrl>https://github.com/erdelf/AlienRaces/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Shookis mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1726422863
+via the version found on Skymods
+https://catalogue.smods.ru/archives/30519
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/CreaturesOfKi][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+This mod is being created as a co-op project. And is being published to share progress (due to lack of a "visible to friends of friends" feature), I’m a bit surprised that it’s already gotten a bit of attention.
+
+A writer and artist (and a good friend of mine) wishes to import their fictional world of Ki into Rimworld. But would prefer to remain anonymous.
+
+Because of the previous, the amount of creatures that is to be added is currently unknown, but could easily run up to 10, being a mix of humanoid, animalistic and mechanical. Two races, several weapons and pieces of apparel have been planned.
+
+Teshi:
+
+Seeing how this is one of the first times playing with the code for RimWorld, this creature is most likely going to be rather unblanaced (currently measured to be in between a Megasloth and Thrumbo).
+Their purpose is to serve as morale boosters (very high colonist interaction rate) and combat pets. They are fairly easy to tame, but require a lot of food.
+
+Kija:
+
+A race of gentle and rather fragile humanoid deer-esque creatures that are highly industrious when it comes to farming and handling animals, but wouldn’t hold up much of a fight.
+
+Up next, small mechanical roaming drones.
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>
