@@ -4,8 +4,7 @@
 
 Update of Shookis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1726422863
-via the version found on Skymods
-https://catalogue.smods.ru/archives/30519
+via the version found on Skymods, id: 30519
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -39,5 +38,6 @@ Up next, small mechanical roaming drones.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
